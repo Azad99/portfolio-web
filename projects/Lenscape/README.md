@@ -46,10 +46,10 @@ You can view the live project here: [Lenscape Website](https://talal.website/pro
 ## Project Structure
 
 lenscape/
-│── index.html       # Main page of the Lenscape website
-│── css/
-│     └── styles.css # Stylesheet for layout and design
-│── images/          # All images for gallery and team members
+├── index.html       # Main page of the Lenscape website
+├── css/
+│   └── styles.css   # Stylesheet for layout and design
+├── images/          # All images for gallery and team members
 └── README.md        # Project documentation
 
 
