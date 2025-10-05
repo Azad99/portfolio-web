@@ -1,20 +1,26 @@
-Tic Tac Toe
+# Tic Tac Toe
 
-A clean and simple web version of the classic Tic Tac Toe game. Players take turns marking the board until one wins or the game ends in a draw.
+A simple web-based Tic Tac Toe game where two players can compete on the same screen. The game automatically detects when a player wins or when the match ends in a draw.
 
 
-Overview
+## Description
+This project is a lightweight implementation of the classic Tic Tac Toe game built using HTML, CSS, and JavaScript. It features an intuitive interface and responsive design for seamless play on desktop or mobile browsers.
 
-This project focuses on creating a fun, interactive, and visually appealing version of Tic Tac Toe using basic web technologies. The design emphasizes clarity, responsive layout, and smooth interaction between players.
+The logic behind the game checks for winning conditions dynamically after every move, ensuring fair play and immediate feedback. The game also provides a restart option to play multiple rounds without reloading the page.
 
-Purpose
+## Features
+- Two-player gameplay (Player X vs Player O)
+- Automatic win/draw detection
+- Restart option
+- Clean and responsive UI
 
-The goal of the project was to strengthen logical thinking and interactive design through a simple but complete game interface.
+## Technologies Used
+- **HTML5** – for the page structure  
+- **CSS3** – for styling and layout  
+- **JavaScript (Vanilla)** – for the game logic and interactivity
 
-Challenges
+## Project Challenges
+One of the main challenges was implementing the winning condition detection logic. This was solved by defining all possible win combinations and checking them dynamically after each turn.
 
-The main challenge was developing the logic that correctly identifies when a player wins or when the game ends in a tie. Through careful iteration and testing, the game now consistently detects all winning combinations and provides clear feedback to the players.
-
-Outcome
-
-The final result is a lightweight, user-friendly browser game that’s both functional and polished, offering a quick and satisfying playing experience.
+## Project Tag
+`#HTML` `#CSS` `#JavaScript` `#TicTacToe` `#GameDevelopment`
