@@ -46,12 +46,12 @@ You can view the live project here: [Lenscape Website](https://talal.website/pro
 ## Project Structure
 
 lenscape/
-│ index.html # Main page of Lenscape
-│ css/
-│ └ styles.css # Project styles
-│ images/
-│ └ ... # Images for gallery and team
-└ README.md # This file
+│── index.html       # Main page of the Lenscape website
+│── css/
+│     └── styles.css # Stylesheet for layout and design
+│── images/          # All images for gallery and team members
+└── README.md        # Project documentation
+
 
 - `index.html` contains the main structure of the website.  
 - `css/styles.css` includes all styling and responsive rules.  
